@@ -1,6 +1,6 @@
 # Model Evaluation and Optimization - Breast Cancer Classification
 
-This project is the **7th module** in the **Edureka Data Science with SQL Program**, focusing on evaluating and optimizing machine learning models to solve a real-world binary classification problem using the **Breast Cancer Wisconsin dataset**.
+This project is the **7th Project** in the **Edureka Data Science with SQL Program LMS**, focusing on evaluating and optimizing machine learning models to solve a real-world binary classification problem using the **Breast Cancer Wisconsin dataset**.
 
 ---
 
@@ -16,6 +16,16 @@ The goal is to classify tumors as **Malignant (1)** or **Benign (0)** using vari
 - Samples: 569
 - Features: 30 numerical features based on tumor characteristics
 - Target: Diagnosis (`M` = Malignant, `B` = Benign)
+
+---
+
+## 📂 Repository Structure
+├── Model Evaluation and optimization.ipynb  # Main Jupyter Notebook
+
+├── README.md # Project documentation
+
+├──  data.csv # Dataset file 
+
 
 ---
 
@@ -93,9 +103,5 @@ This project is completed as part of the **Edureka Data Science with SQL Certifi
 
 ---
 
-## 📂 Repository Structure
-├── data.csv # Dataset file 
 
-├── breast_cancer_model.ipynb # Main Jupyter Notebook
 
-├── README.md # Project documentation
